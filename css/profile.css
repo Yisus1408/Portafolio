@@ -43,6 +43,7 @@
     margin: 0;
     color: var(--primary-color);
     font-family: 'Noto Sans', sans-serif;
+    padding: 30px 0px;
 }
 
 .profile-details{
@@ -109,6 +110,7 @@
         margin: 0;
         color: var(--fondo-background-color);
         font-family: 'Noto Sans', sans-serif;
+        padding: 0px 0px;
         
     }
     
